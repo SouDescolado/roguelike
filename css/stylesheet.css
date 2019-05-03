@@ -6,7 +6,7 @@ html, body{
 
 body{
   background-color: #333;
-  background-image: url(../images/tiles/stone.jpg);
+  background-image: url(/images/tiles/stone.jpg);
   background-repeat: repeat;
 }
 
