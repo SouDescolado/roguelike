@@ -131,7 +131,7 @@ button:active {
 }
 
 #player-icon{
-  background-image: url(images/icon.gif);
+  background: url(images/icon.gif);
   background-size: cover;
 }
 
