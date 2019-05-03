@@ -335,7 +335,7 @@ const initializeBattle = () => {
   gameState = 'battle';
   monster = monsterGenerator();
   console.log('battle start');
-  document.getElementById('monster-icon').style.background = 'url("/images/monsters/monster-' + monster.icon + '.gif")';
+  document.getElementById('monster-icon').style.background = 'url("../images/monsters/monster-' + monster.icon + '.gif")';
   document.getElementById('monster-name').textContent = monster.name;
   document.getElementById('monster-attack').textContent = monster.attack;
   document.getElementById('monster-defense').textContent = monster.defense;
