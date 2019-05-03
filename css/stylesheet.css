@@ -6,12 +6,12 @@ html, body{
 
 body{
   background-color: #333;
-  background-image: url(/images/tiles/stone.jpg);
+  background-image: url(../images/tiles/stone.jpg);
   background-repeat: repeat;
 }
 
 header{
-  background-image: url(/images/sad2.png);
+  background-image: url(../images/sad2.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -24,7 +24,7 @@ article{
   width: 1200px;
   margin: 50px auto;
   padding: 100px 50px;
-  background-image: url(/images/background2.jpg);
+  background-image: url(../images/background2.jpg);
   background-color: #222;
   background-size: cover;
     border-radius: 5px;
@@ -209,7 +209,7 @@ h3{
 }
 
 .chest{
-  background-image: url(/images/chest.jpg);
+  background-image: url(../images/chest.jpg);
   background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
